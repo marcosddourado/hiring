@@ -1,5 +1,5 @@
 # Hiring
-Projeto exclusivo para que processo seletivo
+Projeto exclusivo para processo seletivo
 
 ## Instruções
 1. Faça fork um desse projeto
