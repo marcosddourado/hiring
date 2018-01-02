@@ -12,7 +12,7 @@ Projeto exclusivo para que processo seletivo
 Realizar transação de Bitcoin Testnet usando API
 
 ## Descrição
-1. Faça um script que envie 1 unidade de **Bitcoin Testnet** para a seguinte carteira usando a API do [BlockCypher](https://www.blockcypher.com). Pode ser em Ruby, Python ou Javascript. Faça da forma mais simples que conseguir. Não precisa ter interface com o usuário.
+1. Faça um script que envie 1 unidade de **Bitcoin Testnet** para a seguinte carteira usando a API do [Block.io](https://block.io). Pode ser em Ruby, Python ou Javascript. Faça da forma mais simples que conseguir. Não precisa ter interface com o usuário.
 2. Faça um teste unitário que asserte a realização da transação.
 
 Carteira:
