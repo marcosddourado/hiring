@@ -2,7 +2,7 @@
 Projeto exclusivo para processo seletivo
 
 ## Instruções
-1. Faça fork um desse projeto
+1. Faça um fork desse projeto
 2. Resolva o problema da forma mais simples que conseguir
 3. Quando tiver terminado, nos envie um pull request
 4. Pronto :)
