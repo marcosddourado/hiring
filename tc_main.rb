@@ -1,7 +1,6 @@
 require_relative "main"
 require "test/unit"
 require 'json'
-
  
 class TestMain < Test::Unit::TestCase
  
