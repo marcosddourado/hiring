@@ -1,0 +1,25 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    block_io (1.0.8)
+      connection_pool (~> 2.2, >= 2.2.1)
+      ecdsa (~> 1.2, >= 1.2.0)
+      httpclient (~> 2.8, >= 2.8.0)
+      oj (~> 3.3, >= 3.3.5)
+      oj_mimic_json
+      pbkdf2-ruby (~> 0.2, >= 0.2.1)
+    connection_pool (2.2.1)
+    ecdsa (1.2.0)
+    httpclient (2.8.3)
+    oj (3.3.10)
+    oj_mimic_json (1.0.1)
+    pbkdf2-ruby (0.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  block_io
+
+BUNDLED WITH
+   1.16.1
